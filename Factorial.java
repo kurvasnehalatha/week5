@@ -6,7 +6,7 @@ public class Factorial {
 
         int result = 1;
         for (int i = ; i <= n; i++) {
-            result *= i
+            result *= i;
         }
         return result;
     }
